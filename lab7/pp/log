@@ -1,0 +1,50 @@
+Philospoher NR. 0 	joined the table
+Philospoher NR. 0 	Think
+Philospoher NR. 1 	joined the table
+Philospoher NR. 1 	Think
+Philospoher NR. 2 	joined the table
+Philospoher NR. 2 	Think
+Philospoher NR. 3 	joined the table
+Philospoher NR. 3 	Think
+Philospoher NR. 4 	joined the table
+Philospoher NR. 4 	Think
+Philospoher NR. 1 	Reaches For	      fork #1 and fork #2.
+Philospoher NR. 0 	Reaches For	      fork #0 and fork #1.
+Philospoher NR. 0 	Started meal #0	Using fork #0 and fork #1.
+Philospoher NR. 4 	Reaches For	      fork #4 and fork #0.
+Philospoher NR. 2 	Reaches For	      fork #2 and fork #3.
+Philospoher NR. 2 	Started meal #0	Using fork #2 and fork #3.
+Philospoher NR. 3 	Reaches For	      fork #3 and fork #4.
+Philospoher NR. 0 	Finished	Using fork #0 and fork #1.
+Philospoher NR. 0 	Think
+Philospoher NR. 2 	Finished	Using fork #2 and fork #3.
+Philospoher NR. 2 	Think
+Philospoher NR. 4 	Started meal #0	Using fork #4 and fork #0.
+Philospoher NR. 1 	Started meal #0	Using fork #1 and fork #2.
+Philospoher NR. 0 	Reaches For	      fork #0 and fork #1.
+Philospoher NR. 2 	Reaches For	      fork #2 and fork #3.
+Philospoher NR. 4 	Finished	Using fork #4 and fork #0.
+Philospoher NR. 4 	Think
+Philospoher NR. 1 	Finished	Using fork #1 and fork #2.
+Philospoher NR. 1 	Think
+Philospoher NR. 0 	Started meal #1	Using fork #0 and fork #1.
+Philospoher NR. 3 	Started meal #0	Using fork #3 and fork #4.
+Philospoher NR. 4 	Reaches For	      fork #4 and fork #0.
+Philospoher NR. 1 	Reaches For	      fork #1 and fork #2.
+Philospoher NR. 2 	Started meal #1	Using fork #2 and fork #3.
+Philospoher NR. 0 	Finished	Using fork #0 and fork #1.
+Philospoher NR. 0 	Finished all of meals
+Philospoher NR. 4 	Started meal #1	Using fork #4 and fork #0.
+Philospoher NR. 3 	Finished	Using fork #3 and fork #4.
+Philospoher NR. 3 	Think
+Philospoher NR. 3 	Reaches For	      fork #3 and fork #4.
+Philospoher NR. 4 	Finished	Using fork #4 and fork #0.
+Philospoher NR. 4 	Finished all of meals
+Philospoher NR. 2 	Finished	Using fork #2 and fork #3.
+Philospoher NR. 1 	Started meal #1	Using fork #1 and fork #2.
+Philospoher NR. 3 	Started meal #1	Using fork #3 and fork #4.
+Philospoher NR. 2 	Finished all of meals
+Philospoher NR. 3 	Finished	Using fork #3 and fork #4.
+Philospoher NR. 3 	Finished all of meals
+Philospoher NR. 1 	Finished	Using fork #1 and fork #2.
+Philospoher NR. 1 	Finished all of meals

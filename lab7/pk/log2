@@ -1,0 +1,50 @@
+p_id: [0] name: [Nietzsche] 	has joined the table.
+p_id: [0] name: [Nietzsche] 	is thinking.
+p_id: [1] name: [Kant] 	has joined the table.
+p_id: [4] name: [Aquinas] 	has joined the table.
+p_id: [2] name: [Plato] 	has joined the table.
+p_id: [3] name: [Homer] 	has joined the table.
+p_id: [3] name: [Homer] 	is thinking.
+p_id: [2] name: [Plato] 	is thinking.
+p_id: [4] name: [Aquinas] 	is thinking.
+p_id: [1] name: [Kant] 	is thinking.
+p_id: [0] name: [Nietzsche] 	is going to grab left fork [0] and right fork [1].
+p_id: [3] name: [Homer] 	is going to grab left fork [3] and right fork [4].
+p_id: [2] name: [Plato] 	is going to grab left fork [2] and right fork [3].
+p_id: [1] name: [Kant] 	is going to grab left fork [1] and right fork [2].
+p_id: [0] name: [Nietzsche] 	has grabed forks and is eating meal [1] with left fork [0] right fork [1].
+p_id: [3] name: [Homer] 	has grabed forks and is eating meal [1] with left fork [3] right fork [4].
+p_id: [4] name: [Aquinas] 	is going to grab left fork [4] and right fork [0].
+p_id: [3] name: [Homer] 	has finished his meal [1] with left fork [3] right fork [4].
+p_id: [0] name: [Nietzsche] 	has finished his meal [1] with left fork [0] right fork [1].
+p_id: [0] name: [Nietzsche] 	is thinking.
+p_id: [4] name: [Aquinas] 	has grabed forks and is eating meal [1] with left fork [4] right fork [0].
+p_id: [2] name: [Plato] 	has grabed forks and is eating meal [1] with left fork [2] right fork [3].
+p_id: [3] name: [Homer] 	is thinking.
+p_id: [0] name: [Nietzsche] 	is going to grab left fork [0] and right fork [1].
+p_id: [3] name: [Homer] 	is going to grab left fork [3] and right fork [4].
+p_id: [4] name: [Aquinas] 	has finished his meal [1] with left fork [4] right fork [0].
+p_id: [4] name: [Aquinas] 	is thinking.
+p_id: [0] name: [Nietzsche] 	has grabed forks and is eating meal [2] with left fork [0] right fork [1].
+p_id: [3] name: [Homer] 	has grabed forks and is eating meal [2] with left fork [3] right fork [4].
+p_id: [2] name: [Plato] 	has finished his meal [1] with left fork [2] right fork [3].
+p_id: [2] name: [Plato] 	is thinking.
+p_id: [2] name: [Plato] 	is going to grab left fork [2] and right fork [3].
+p_id: [4] name: [Aquinas] 	is going to grab left fork [4] and right fork [0].
+p_id: [2] name: [Plato] 	has grabed forks and is eating meal [2] with left fork [2] right fork [3].
+p_id: [0] name: [Nietzsche] 	has finished his meal [2] with left fork [0] right fork [1].
+p_id: [0] name: [Nietzsche] 	has left the table.
+p_id: [3] name: [Homer] 	has finished his meal [2] with left fork [3] right fork [4].
+p_id: [3] name: [Homer] 	has left the table.
+p_id: [4] name: [Aquinas] 	has grabed forks and is eating meal [2] with left fork [4] right fork [0].
+p_id: [2] name: [Plato] 	has finished his meal [2] with left fork [2] right fork [3].
+p_id: [2] name: [Plato] 	has left the table.
+p_id: [4] name: [Aquinas] 	has finished his meal [2] with left fork [4] right fork [0].
+p_id: [4] name: [Aquinas] 	has left the table.
+p_id: [1] name: [Kant] 	has grabed forks and is eating meal [1] with left fork [1] right fork [2].
+p_id: [1] name: [Kant] 	has finished his meal [1] with left fork [1] right fork [2].
+p_id: [1] name: [Kant] 	is thinking.
+p_id: [1] name: [Kant] 	is going to grab left fork [1] and right fork [2].
+p_id: [1] name: [Kant] 	has grabed forks and is eating meal [2] with left fork [1] right fork [2].
+p_id: [1] name: [Kant] 	has finished his meal [2] with left fork [1] right fork [2].
+p_id: [1] name: [Kant] 	has left the table.
